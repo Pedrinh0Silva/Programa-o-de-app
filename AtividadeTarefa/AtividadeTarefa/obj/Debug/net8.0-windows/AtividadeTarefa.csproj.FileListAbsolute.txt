@@ -1,0 +1,17 @@
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\obj\Debug\net8.0-windows\AtividadeTarefa.Form1.resources
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\obj\Debug\net8.0-windows\AtividadeTarefa.View.FormFuncionarios.resources
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\obj\Debug\net8.0-windows\AtividadeTarefa.csproj.GenerateResource.cache
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\obj\Debug\net8.0-windows\AtividadeTarefa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\obj\Debug\net8.0-windows\AtividadeTarefa.AssemblyInfoInputs.cache
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\obj\Debug\net8.0-windows\AtividadeTarefa.AssemblyInfo.cs
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\obj\Debug\net8.0-windows\AtividadeTarefa.csproj.CoreCompileInputs.cache
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\bin\Debug\net8.0-windows\AtividadeTarefa.exe
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\bin\Debug\net8.0-windows\AtividadeTarefa.deps.json
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\bin\Debug\net8.0-windows\AtividadeTarefa.runtimeconfig.json
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\bin\Debug\net8.0-windows\AtividadeTarefa.dll
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\bin\Debug\net8.0-windows\AtividadeTarefa.pdb
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\obj\Debug\net8.0-windows\AtividadeTarefa.dll
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\obj\Debug\net8.0-windows\refint\AtividadeTarefa.dll
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\obj\Debug\net8.0-windows\AtividadeTarefa.pdb
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\obj\Debug\net8.0-windows\AtividadeTarefa.genruntimeconfig.cache
+C:\Users\casa\Downloads\AtividadeTarefa3.0\AtividadeTarefa2.0\AtividadeTarefa2.0\AtividadeTarefa\obj\Debug\net8.0-windows\ref\AtividadeTarefa.dll
